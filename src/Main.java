@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import animoals.Dog;
 import animoals.stu;
+import animoals.People;
 
 public class Main {
     static char gender;
